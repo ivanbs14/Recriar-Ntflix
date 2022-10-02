@@ -1,2 +1,3 @@
 # pagina_Netflix_aula
-Aula de recriar pagina da Netflix.
+Foi recriando um clone forntend de um site de filmes e series, Netflix.
+Usando Html, Css, JavaScript, JQuery.
